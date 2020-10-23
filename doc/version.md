@@ -1,6 +1,6 @@
 #version 1:
 ##Features:
-Use JDK 11, spring-boot 2.3.3
+Hello World Spring Boot app using JDK 11, spring-boot 2.3.3
 ##Steps:
 - git clone from https://spring.io/guides/gs/spring-boot/
     - git clone https://github.com/spring-guides/gs-spring-boot.git
