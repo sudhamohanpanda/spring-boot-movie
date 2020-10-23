@@ -16,3 +16,10 @@ in pom change to:
 rename root folder to spring-boot-movie
 Import project in Intellij as File => new => Project from existing source
 mvn clean install
+
+In github create new repository
+git remote add origin https://github.com/sudhamohanpanda/spring-boot-movie.git
+git branch -M main
+git push -u origin main
+
+done - is not it simple
